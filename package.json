@@ -1,7 +1,7 @@
 {
-  "name": " ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ",
+  "name": "Zuka",
   "version": "10.8.1",
-  "description": "Joel James tech inc",
+  "description": "Best Whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,8 +9,8 @@
     "stop": "pm2 stop  ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ",
     "restart": "pm2 restart  ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ"
   },
-  "keywords": ["lord-joel", "whatsapp-bot", "whatsapp md bot"],
-  "author": " ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ",
+  "keywords": ["Zuka", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Zuka",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
